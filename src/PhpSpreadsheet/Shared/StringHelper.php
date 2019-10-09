@@ -51,7 +51,7 @@ class StringHelper
      *
      * @var bool
      */
-    private static $isIconvEnabled;
+    private static $isIconvEnabled = false;
 
     /**
      * iconv options.
